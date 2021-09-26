@@ -1,0 +1,18 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "245db163-0faa-49d0-8874-3296b5d878ba",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Wheel",
+            "bindingGroup": "Wheel",
+            "devices": []
+        }
+    ]
+}
